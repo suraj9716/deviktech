@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/deviktech.git/static/css/main.bfb53582.chunk.css",
+    "main.js": "/deviktech.git/static/js/main.27c31e9b.chunk.js",
+    "main.js.map": "/deviktech.git/static/js/main.27c31e9b.chunk.js.map",
+    "runtime-main.js": "/deviktech.git/static/js/runtime-main.9fb9e6db.js",
+    "runtime-main.js.map": "/deviktech.git/static/js/runtime-main.9fb9e6db.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/deviktech.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ebe4c6b.chunk.js": "/deviktech.git/static/js/2.1ebe4c6b.chunk.js",
+    "static/js/2.1ebe4c6b.chunk.js.map": "/deviktech.git/static/js/2.1ebe4c6b.chunk.js.map",
+    "index.html": "/deviktech.git/index.html",
+    "precache-manifest.de021f49564ebbb482b7e069d25845f2.js": "/deviktech.git/precache-manifest.de021f49564ebbb482b7e069d25845f2.js",
+    "service-worker.js": "/deviktech.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/deviktech.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bfb53582.chunk.css.map": "/deviktech.git/static/css/main.bfb53582.chunk.css.map",
+    "static/js/2.1ebe4c6b.chunk.js.LICENSE.txt": "/deviktech.git/static/js/2.1ebe4c6b.chunk.js.LICENSE.txt",
+    "static/media/amazon.png": "/deviktech.git/static/media/amazon.9f0ef7c7.png",
+    "static/media/Contact.css": "/deviktech.git/static/media/code.b2a92f91.jpg",
+    "static/media/sky.jpeg": "/deviktech.git/static/media/sky.e6125def.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb9e6db.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ebe4c6b.chunk.js",
+    "static/css/main.bfb53582.chunk.css",
+    "static/js/main.27c31e9b.chunk.js"
+  ]
+}
