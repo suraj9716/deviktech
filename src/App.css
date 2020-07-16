@@ -1,0 +1,171 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.mainheader{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.mainheader p{
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  float: left;
+
+}
+.mainheader p:hover{
+
+  background-color: #111111;
+
+  border-radius: 25px;
+}
+.mainfooter{
+
+  background-color:white;
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 2em;
+  padding-left: 3rem;
+  font-family: Garamond;
+  flex-direction: row;
+  flex: auto;
+}
+.mainfooter #logo{
+
+  font-family: Garamond;
+  font-weight: 700;
+  font-size: 50px;
+}
+#cour{
+
+  color: red;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.sub{
+
+  color: red;
+  padding-left: 3rem;
+}
+.animate
+{
+	transition: all 0.1s;
+	-webkit-transition: all 0.1s;
+}
+.action-button
+{
+	position: relative;
+	padding: 10px 40px;
+  margin: 0px 10px 10px 0px;
+  float: left;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 13px;
+	color: #FFF;
+	text-decoration: none;	
+}
+.blue
+{
+	background-color: #3498DB;
+	border-bottom: 5px solid #2980B9;
+	text-shadow: 0px -2px #2980B9;
+}
+.red
+{
+	background-color: #E74C3C;
+	border-bottom: 5px solid #BD3E31;
+	text-shadow: 0px -2px #BD3E31;
+}
+
+.green
+{
+	background-color: #82BF56;
+	border-bottom: 5px solid #669644;
+	text-shadow: 0px -2px #669644;
+}
+
+.yellow
+{
+	background-color: #F2CF66;
+	border-bottom: 5px solid #D1B358;
+	text-shadow: 0px -2px #D1B358;
+}
+
+.action-button:active
+{
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+	border-bottom: 1px solid;
+}
+.mainfooter #logo:hover{
+
+  font-size: 51px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  
+}
+.mainfooter div{
+
+  text-align: left;
+}
+.mainfooter div p {
+
+  font-size: 20px;
+}
+#last{
+
+  padding-left: 4rem;
+  color:blue;
+}
+#last a{
+
+  color: black;
+  font-size: 30px;
+ padding-left: 9rem;
+}
+form input{
+
+  color:rebeccapurple;
+  height: 80%;
+}
